@@ -1,5 +1,5 @@
 # EasySite
-Une template de base avancé contenant diverse fichiers et dossiers pour aider la création de site !
+Une template de base avancée contenant diverse fichiers et dossiers pour aider la création de site !
 ## Codez plus simplement
 Cette template permet de créer les fichiers nécessaire au bon développement d'un site web complet.
 ## Codez plus rapidement
