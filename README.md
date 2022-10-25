@@ -8,5 +8,7 @@ La plupart du code de base est léger et comprend la base : des dossiers utiles 
 Utilisez les logiciels pré-intégrés à EasySite (ou utilisez vos propres outils) ! Les logiciels sont gratuits et directement intégrés dans un dossier facile d'accès !
 ## Lourd mais complet 
 Cette template est devenue lourde avec la version 5 d'EasySite, mais vous avez tout les logiciels de développement utiles tels que : MAMP, Github Desktop, Visual Studio Code et Chrome, si vous désirez tout de même installer plus rapidement en le téléchargeant [ici](https://github.com/enioaiello/EasySite/releases/tag/Release_3), même si cette version n'est plus supportée !
+# Support
+Un serveur Discord concernant ce projet devrait bientôt voir le jour, restez à l'écoute via la page **Discussions** !
 # Plus d'informations
 Pour plus d'informations, contactez-moi via e-mail : aielloenio@icloud.com !
