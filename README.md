@@ -12,6 +12,7 @@ Cette template est devenue lourde avec la version 5 d'EasySite, mais vous avez t
 Voici quelques fonctionnalités intéressantes :
 - Installateur intégré d'applications utile au développement.
 - Fichiers pré-créés avec le code de base pour créer un site.
+- Librairies diverses et gratuites.
 # Support
 Un serveur Discord concernant ce projet devrait bientôt voir le jour, restez à l'écoute via la page **Discussions** !
 # Plus d'informations
