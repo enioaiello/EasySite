@@ -14,7 +14,7 @@ Voici quelques fonctionnalités intéressantes :
 - Fichiers pré-créés avec le code de base pour créer un site.
 - Librairies diverses et gratuites.
 # Support
-Un serveur Discord concernant ce projet devrait bientôt voir le jour, restez à l'écoute via la page **Discussions** !
+Le support est disponible sur la catégorie [Discussions](https://github.com/enioaiello/EasySite/discussions) et également sur le [Discord](https://discord.gg/h5y2bZwH2B) ! 
 # Plus d'informations
 Pour plus d'informations, contactez-moi via e-mail : aielloenio@icloud.com !
 Vous pouvez désormais accéder au site web officiel du projet [ici](https://enioaiello.github.io/EasySite/) !
