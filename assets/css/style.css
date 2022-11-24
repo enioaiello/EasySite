@@ -71,3 +71,8 @@ button {
     text-decoration: none;
     text-align: center;
 }
+
+.link {
+    color: blue;
+    text-decoration: none;
+}
