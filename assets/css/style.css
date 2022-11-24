@@ -14,10 +14,6 @@ header {
     height: 8vh;
 }
 
-nav {
-    position: fixed;
-}
-
 ul {
     list-style-type: none;
     text-align: left;
