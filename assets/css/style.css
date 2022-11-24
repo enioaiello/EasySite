@@ -30,6 +30,11 @@ li {
     text-decoration: none;
 }
 
+img {
+    padding-top: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
 
 h1 {
     text-align: center;
