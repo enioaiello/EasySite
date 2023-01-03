@@ -105,3 +105,16 @@ section {
     width: 50%;
     display: inline-block;
 }
+
+#leftSection {
+    float: left;
+}
+
+#rightSection {
+    float: right;
+}
+
+p {
+    width: 80%;
+    margin: 0 auto;
+}
